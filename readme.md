@@ -141,7 +141,7 @@ We can combine our own styles with the ones that Bootstrap gives us. Create a ne
 
 ```CSS
 .navbar {
-  background-color: blue
+  background-color: blue;
 }
 ```
 As long as we import our own styles **after** Bootstrap's, we can override add or override any of Bootstraps defaults.
